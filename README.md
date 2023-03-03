@@ -1,3 +1,2 @@
 # Test-Repo
-abc = ghp_30FS0w7qX6WDTazVyM06NsariaNzTp3xxX7H
-abc2 = e5bfy3lxj2h6gx374maha74bwiqosgzk3pl5r5nvyaxpzvqpz2xc
+removed the secrets
